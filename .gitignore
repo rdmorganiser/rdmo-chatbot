@@ -5,8 +5,11 @@ __pycache__
 .DS_Store
 
 env
+.env
+.chainlit
 
 node_modules
+public
 
 build
 dist
